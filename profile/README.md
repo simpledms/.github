@@ -1,6 +1,6 @@
 ## SimpleDMS
 
-This is the home of [SimpleDMS](https://simpledms.ch/de/) on GitHub.
+This is the home of [SimpleDMS](https://simpledms.eu/en/) on GitHub.
 
 <!--
 
