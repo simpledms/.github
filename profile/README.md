@@ -2,7 +2,7 @@
 
 This is the home of [SimpleDMS](https://simpledms.eu/en/) on GitHub.
 
-The source code of the SimpleDMS app can be found in the repo [simpledms/simpledms](https://github.com/simpledms/simpledms).
+The source code of the SimpleDMS app can be found in the repo [simpledms](https://github.com/simpledms/simpledms).
 
 <!--
 
